@@ -1,0 +1,20 @@
+{
+  "name": "third-party-risk-management-toolkit",
+  "displayName": "Third-Party Risk Management Toolkit",
+  "version": "0.1.0",
+  "description": "Tier vendors by inherent risk, triage security questionnaires, explain external attack-surface findings in business terms, and draft vendor remediation requests.",
+  "author": {
+    "name": "Akanksha Singh"
+  },
+  "homepage": "https://github.com/theakanksha/third-party-risk-management-toolkit",
+  "repository": "https://github.com/theakanksha/third-party-risk-management-toolkit",
+  "license": "MIT",
+  "keywords": [
+    "third-party-risk",
+    "tprm",
+    "vendor-risk",
+    "security-questionnaire",
+    "grc",
+    "attack-surface"
+  ]
+}
